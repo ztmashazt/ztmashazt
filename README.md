@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Header
+
+About me
+
+Languages
+
+Tools
+
+Follow me
